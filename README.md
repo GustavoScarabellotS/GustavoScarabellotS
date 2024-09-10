@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando no 3º ano do ensino médio no CEDUP abílio paulo no curso tecnico de TI.
+- 🌱 Aprendendo mais sobre Python e em andamento um curso de inglês(Jornada do Autodidada).
+<!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
 
 
 ## Minhas Skills
@@ -74,6 +74,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-GustavoScarabelotdosSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-GustavoScarabelotdosSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-scarabelot-dos-santos-750574289/)](https://www.linkedin.com/in/gustavo-scarabelot-dos-santos-750574289/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavoscarabelotdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<gustavoscarabelotdev@gmail.com>)](mailto:<gustavoscarabelotdev@gmail.com>)
-[![GitHub](https://img.shields.io/github/followers/GustavoScarabellotS?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/GustavoScarabellotS?label=follow&style=social)](https://github.com/GustavoScarabellotS)
