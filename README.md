@@ -75,5 +75,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-GustavoScarabelotdosSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-scarabelot-dos-santos-750574289/)](https://www.linkedin.com/in/gustavo-scarabelot-dos-santos-750574289/)
-[![Gmail Badge](https://img.shields.io/badge/-gustavoscarabelotdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoscarabelotdev@gmail.com)](mailto:gustavoscarabelotdev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gustavoscarabelotdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoscarabelotdev@gmail.com )](mailto:gustavoscarabelotdev@gmail.com )
 [![GitHub](https://img.shields.io/github/followers/GustavoScarabellotS?label=follow&style=social)](https://github.com/GustavoScarabellotS)
