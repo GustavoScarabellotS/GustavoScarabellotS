@@ -20,9 +20,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
+
 **DevOps**
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+
 
 **Ferramentas de desenvolvimento**
 
@@ -46,7 +48,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -62,7 +64,7 @@
 </table>
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Número de Visitantes no Perfil</b></h3>
 </div>
 
 <p align="center">
