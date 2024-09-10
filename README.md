@@ -28,7 +28,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white)
 
 
 <br/>
@@ -39,14 +39,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&theme=dark&hide_border=true&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -54,7 +54,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoScarabellotS&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoScarabellotS&theme=dark&hide_border=true"
         alt="Github Stats"
       />
     </td>
