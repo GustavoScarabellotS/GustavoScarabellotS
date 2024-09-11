@@ -1,6 +1,6 @@
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Scarabelot+dos+Santos;I'm+17+years+old;I+am+from+Criciúma,+SC;I+am+graduating+in+IT+Technician+at+CEDUP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Scarabelot+dos+Santos;I'm+17+years+old;I+am+from+Criciúma,+SC;I+am+graduating+in+IT+Technician+at+CEDUP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -34,23 +34,21 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white)
 
-
 <br/>
-
 
 <table>
   <tr>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&show_icons=true&theme=chartreuse-dark"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -58,7 +56,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoScarabellotS&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoScarabellotS&theme=chartreuse-dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
