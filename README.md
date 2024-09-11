@@ -1,6 +1,8 @@
 
 
-## Sobre mim
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Scarabelot+dos+Santos;I'm+17+years+old;I+am+from+Criciúma,+SC;I+am+graduating+in+IT+Technician+at+CEDUP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando no 3º ano do ensino médio no CEDUP abílio paulo no curso tecnico de TI.
