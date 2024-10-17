@@ -1,6 +1,6 @@
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Scarabellot+dos+Santos;I'm+17+years+old;I+am+from+Criciúma,+SC;I+am+graduating+in+IT+Technician+at+CEDUP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2dde98&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Scarabellot+dos+Santos;I'm+17+years+old;I+am+from+Criciúma,+SC;I+am+graduating+in+IT+Technician+at+CEDUP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -36,27 +36,19 @@
 
 <br/>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&show_icons=true&theme=github_dark"
+        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&show_icons=true&theme=algolia"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoScarabellotS&theme=github_dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
