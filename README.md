@@ -41,14 +41,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&show_icons=true&theme=chartreuse-dark"
+        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&show_icons=true&theme=github_dark"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScarabellotS&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -56,23 +56,12 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoScarabellotS&theme=chartreuse-dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoScarabellotS&theme=github_dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <h3><b>📍 Número de Visitantes no Perfil</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/GustavoScarabellotS/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
 
 ## Onde me encontrar
 
