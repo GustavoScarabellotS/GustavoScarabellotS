@@ -6,6 +6,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo novas soluções na área de Ti.
 - 🎓 Graduado no ensino médio no CEDUP abílio paulo no curso tecnico de TI.
+- 🌐 Se graduando em Gestão da Tecnologia da Informação pela UNINTER.
 - 🌱 Aprendendo mais sobre Gestão da Tecnologia da Informação e em andamento um curso de inglês(Jornada do Autodidada).
 <!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
 
