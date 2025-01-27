@@ -1,12 +1,12 @@
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2dde98&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Scarabellot+dos+Santos;I'm+17+years+old;I+am+from+Criciúma,+SC;I+am+graduating+in+IT+Technician+at+CEDUP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2dde98&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Scarabellot+dos+Santos;I'm+18+years+old;I+am+from+Criciúma,+SC;I+am+graduate+in+IT+Technician+at+CEDUP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando no 3º ano do ensino médio no CEDUP abílio paulo no curso tecnico de TI.
-- 🌱 Aprendendo mais sobre Python e em andamento um curso de inglês(Jornada do Autodidada).
+- 🤔 Explorando novas tecnologias e desenvolvendo novas soluções na área de Ti.
+- 🎓 Graduado no ensino médio no CEDUP abílio paulo no curso tecnico de TI.
+- 🌱 Aprendendo mais sobre Gestão da Tecnologia da Informação e em andamento um curso de inglês(Jornada do Autodidada).
 <!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
 
 
@@ -16,7 +16,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
