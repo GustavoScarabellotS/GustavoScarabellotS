@@ -4,11 +4,10 @@
 
 
 
-- 🤔 Explorando novas tecnologias e desenvolvendo novas soluções na área de Ti.
+- 🤔 Explorando novas tecnologias e desenvolvendo novas soluções na área de TI.
 - 🎓 Graduado no ensino médio no CEDUP abílio paulo no curso tecnico de TI.
-- 🌐 Se graduando em Gestão da Tecnologia da Informação pela UNINTER.
-- 🌱 Aprendendo mais sobre Gestão da Tecnologia da Informação e em andamento um curso de inglês(Jornada do Autodidada).
-<!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
+- 🌐 Fazendo cursos voltados à tecnologia e ferramentas digitais, com foco em automação, análise de dados, produtividade profissional e aprendizado de inglês.
+- 💼 Trabalhando como Suporte Técnico na Handix do Brasil, atuando na criação de automações e soluções de chatbot para aprimorar a experiência de atendimento ao cliente. 
 
 
 ## Minhas Skills
