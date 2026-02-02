@@ -1,6 +1,6 @@
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2dde98&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Scarabellot+dos+Santos;I'm+18+years+old;I+am+from+Criciúma,+SC;I+am+graduate+in+IT+Technician+at+CEDUP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2dde98&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Scarabellot+dos+Santos;I'm+19+years+old;I+am+from+Criciúma,+SC;I+am+graduate+in+IT+Technician+at+CEDUP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
