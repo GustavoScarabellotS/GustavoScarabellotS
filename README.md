@@ -5,7 +5,7 @@
 
 
 - 🤔 Explorando novas tecnologias e desenvolvendo novas soluções na área de TI.
-- 🎓 Graduado no ensino médio no CEDUP abílio paulo no curso tecnico de TI.
+- 🎓 Graduado no ensino médio no CEDUP abílio paulo no curso tecnico de TI e cursando ensino superior em **Gestão da Tecnologia da Informação** pela Uninter.
 - 🌐 Fazendo cursos voltados à tecnologia e ferramentas digitais, com foco em automação, análise de dados, produtividade profissional e aprendizado de inglês.
 - 💼 Trabalhando como Suporte Técnico na Handix do Brasil, atuando na criação de automações e soluções de chatbot para aprimorar a experiência de atendimento ao cliente. 
 
@@ -40,7 +40,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&show_icons=true&theme=algolia"
+        src="https://github-readme-stats.vercel.app/api?username=GustavoScarabellotS&show_icons=true"
         alt="Github Stats"
       />
     </td>
